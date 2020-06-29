@@ -4,10 +4,10 @@
 + Kurs __11 Temmuz 2020__ tarihinde başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı __1000__'in üzerinde ayrı kod yapılacaktır.
-+ Dersler __Cumartesi ve Pazar__ günleri  __09:00 - 13.00__ saatleri arasında yapılacaktır.
++ Dersler __Cumartesi ve Pazar__ günleri  __09:00 - 13.00__ saatleri arasında yazılacaktır.
 + Kursun toplam süresi __160__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
-+ Kurs ücreti __KDV hariç 3.400 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) %10 indirim uygulanmaktadır. 
++ Kurs ücreti __KDV hariç 3.200 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __KDV hariç 2.950 TL__'dir.
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kursun_tanitimi.md)
