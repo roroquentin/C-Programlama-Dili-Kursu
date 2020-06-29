@@ -40,7 +40,7 @@ Evet. Ancak bunu önermiyorum. Daha önce aldığınız eğitimlerde ya da kişi
 ### Okulda C Programlama dersi alıyorum. Bu kursu almam dersi geçmemi kolaylaştırır mı?
 Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi bir fikir olmayabilir. Kurs programının amacı katılımcılara üretimde kullanabilecekleri yetkinlikte `C` dilini öğretmektir.
 
-### Eğitimi takip ederken, bana okulda verilen ödevler ya da projeler için sizden destek alabilir miyim?
+### Eğitimi takip ederken bana okulda verilen ödevler ya da projeler için sizden destek alabilir miyim?
 Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalısınız.
 
 ### Daha önce C ve Sistem Programcıları Derneğinde C kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
