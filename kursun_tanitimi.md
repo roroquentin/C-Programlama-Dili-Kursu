@@ -34,7 +34,7 @@ Dersler hafta içi __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri
 + __12.10 - 13.00        3. ders__
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. `C ve C++` dillerinde aktif olarak uygulamalar geliştiren `Necati Ergin`, 100’ün üstünde şirket ve kuruma `C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları` konularında eğitim vermiştir. 
