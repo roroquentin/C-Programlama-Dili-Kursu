@@ -20,18 +20,18 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama
 Eğitimin toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
+Dersler hafta içi __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
-+ __19.30 – 20.20        1. ders__
++ __09.00 – 10.20        1. ders__
 
-+ 20.20 – 20.35        1. ara
++ 10.20 – 10.40        1. ara
 
-+ __20.35 – 21.25        2. ders__
++ __10.40 – 11.50        2. ders__
 
-+ 21.25 - 21.40        2. ara
++ 11.50 - 12.10        2. ara
 
-+ __21.40 - 22.30        3. ders__
++ __12.10 - 13.00        3. ders__
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
