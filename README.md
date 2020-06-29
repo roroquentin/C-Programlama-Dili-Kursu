@@ -9,7 +9,7 @@
 + Kurs eğitmeni __Necati Ergin__'dir.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
++ [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md)
 
