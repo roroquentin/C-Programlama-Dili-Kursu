@@ -10,7 +10,7 @@
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kursun_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
++ [Kurs İçeriği](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md)
 
 [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)
