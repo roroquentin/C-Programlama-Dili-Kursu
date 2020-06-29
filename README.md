@@ -7,6 +7,7 @@
 + Dersler __Cumartesi ve Pazar__ günleri  __09:00 - 13.00__ saatleri arasında yapılacaktır.
 + Kursun toplam süresi __160__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
++ Kurs ücreti __3.400 TL__'dir
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kursun_tanitimi.md)
