@@ -23,15 +23,15 @@ Eğitimin toplam süresi __160__ saattir.
 Dersler hafta sonu __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
-+ __09.00 – 10.20        1. ders__
++ __09.00 – 10.10        1. ders__
 
-+ 10.20 – 10.40        1. ara
++ 10.10 – 10.30        1. ara
 
-+ __10.40 – 11.50        2. ders__
++ __10.30 – 11.40        2. ders__
 
-+ 11.50 - 12.10        2. ara
++ 11.40 - 12.00        2. ara
 
-+ __12.10 - 13.00        3. ders__
++ __12.00 - 13.00        3. ders__
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
