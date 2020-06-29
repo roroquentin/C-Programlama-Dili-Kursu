@@ -51,7 +51,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programc�
 
 + Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile __Vimeo__ üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek parola ile __Vimeo__ üzerinden izleyebilirler.
 
 
 ## Eğitim Materyalleri
