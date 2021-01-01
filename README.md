@@ -12,6 +12,6 @@
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/kurs_programi.md)
-+ [Sık Sorulan Sorular](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/sss.md)
++ [Sık Sorulan Sorular](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/sss.md)
 
 [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZErd-Cgrz8uE9a59Qtbo_IT8khbkvMWZk0U)
