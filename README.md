@@ -10,7 +10,7 @@
 + Kurs ücreti __3.500 TL__'dir. Öğrenciler için kurs ücreti __3.200 TL__'dir.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kursun_tanitimi.md)
++ [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
 + [Sık Sorulan Sorular](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/sss.md)
 
