@@ -20,7 +20,7 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama
 Eğitimin toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta sonu __Cumartesi ve Pazar__ günleri  __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri  __19.30 – 22.30__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
 + __09.00 – 10.10        1. ders__
