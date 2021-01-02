@@ -99,11 +99,10 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __3.150 TL__'dir.
+Kurs ücreti __3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __3.200 TL__'dir.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIpdOispj0jH9UrY31ZmMBXDOFUsBsUyo8M)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
-__12 Ekim 2020 Pazartesi__ tarihinden başlayarak ön kayıt yaptıranlarla (ön kayıt yaptırdıkları sırayla) iletişime geçilecek. Kesin kayıt yaptıranlar kursa kabul edilmiş olacaklar.
 
 ## Sık Sorulan Sorular
 __Online C Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
