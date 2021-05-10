@@ -7,11 +7,11 @@
 + Dersler __Salı ve Perşembe__ günleri  __19:30 - 22.30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
 + Kursun toplam süresi __162__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
-+ Kurs ücreti __3.600 TL__'dir. Öğrenciler için kurs ücreti __3.200 TL__'dir.
++ Kurs ücreti __3.600 TL__'dir. Öğrenciler için %10 indirim uygulanmaktadır. Kurs ücreti 2 taksit olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/kursun_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/kurs_programi.md)
-+ [Sık Sorulan Sorular](https://github.com/necatiergin/Online-C-Kursu-25-Ocak/blob/master/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZErd-Cgrz8uE9a59Qtbo_IT8khbkvMWZk0U)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMuceyuqzsiHtTNZ9exzn5M2aRw7Lpwukeq)
