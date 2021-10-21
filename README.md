@@ -10,8 +10,7 @@
 + Kurs ücreti __4.500 TL__'dir. Öğrenciler için %10 indirim uygulanmaktadır. Kurs ücreti 2 taksit olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-tanıtımı.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Kursu/blob/master/kurs-programı.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Kursu/blob/master/SSS.md)
++ [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
++ [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMuceyuqzsiHtTNZ9exzn5M2aRw7Lpwukeq)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://zoom.us/meeting/register/tJEsf-iuqTIjE9ckSeBOvc3uVjUVyW15s9AG)
