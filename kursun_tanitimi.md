@@ -91,6 +91,6 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 Kurs ücreti __4.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.000 TL__'dir.
 
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZErd-Cgrz8uE9a59Qtbo_IT8khbkvMWZk0U)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://zoom.us/meeting/register/tJEsf-iuqTIjE9ckSeBOvc3uVjUVyW15s9AG)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Kurs hakkında sorularınız için doğrudan [__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
