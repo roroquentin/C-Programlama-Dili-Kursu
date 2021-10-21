@@ -17,24 +17,13 @@
 Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __162__ saattir. 
+Eğitimin toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Pazartesi, Çarşamba ve Cuma__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
-
-
-+ __19.30 – 20.20        1. ders__
-
-+ 20.20 – 20.35        1. ara
-
-+ __20.35 – 21.25        2. ders__
-
-+ 21.25 - 21.40        2. ara
-
-+ __21.40 - 22.30        3. ders__
+Dersler __Cumartesi ve Pazar__ günleri  __14.00 – 18.00__ saatleri arasında __4'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/Online_C_Kursu_11_Temmuz/blob/master/kurs_programi.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma __C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları__ konularında eğitim vermiştir. 
@@ -99,7 +88,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __3.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __3.200 TL__'dir.
+Kurs ücreti __4.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.000 TL__'dir.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZErd-Cgrz8uE9a59Qtbo_IT8khbkvMWZk0U)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
