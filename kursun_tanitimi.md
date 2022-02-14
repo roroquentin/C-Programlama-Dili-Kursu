@@ -88,7 +88,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __4.500 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.000 TL__'dir.
+Kurs ücreti __5.400 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800 TL__'dir.
 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](https://zoom.us/meeting/register/tJEsf-iuqTIjE9ckSeBOvc3uVjUVyW15s9AG)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
