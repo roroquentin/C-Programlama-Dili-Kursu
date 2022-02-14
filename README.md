@@ -1,12 +1,15 @@
 ## Online C Programlama Dili Kursu
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
-+ Kurs __13 Kasım 2021__ tarihinde başlayacaktır.
-+ __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Dersler __Cumartesi ve Pazar__ günleri  __14:00 - 18.00__ saatleri arasında __(haftada 8 saat)__ yapılacaktır.
++ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
++ Kurs __5 Nisan 2022__ tarihinde başlayacaktır.
++ __Kurs gerçek zamanlıdır.__ 
+Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. 
+Öğrenciler ders sırasında eğitmene soru sorabilirler.
++ Dersler __Salı ve Cuma__ günleri  __19:30 - 22.30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
 + Kursun toplam süresi __180__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
-+ Kurs ücreti __4.500 TL__'dir. Öğrenciler için %10 indirim uygulanmaktadır. Kurs ücreti 2 taksit olarak ödenebilir.
++ Kurs ücreti __5.800 TL__'dir. 
+Öğrenciler için %10 indirim uygulanmaktadır. 
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
