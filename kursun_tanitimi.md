@@ -4,7 +4,8 @@
 
 * Kursta __C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
 
-* Eğitimde temel olarak __C99__ standartları esas alınmaktadır. __C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+* Eğitimde temel olarak __C99__ ve __C11__ standartları esas alınmaktadır. 
+__C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
 
 * __C__ dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
@@ -14,7 +15,8 @@
 
 
 ## Ön Koşul
-Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
+Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. 
+Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
 Eğitimin toplam süresi __180__ saattir. 
@@ -92,9 +94,11 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __5.400 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800 TL__'dir.
+Kurs ücreti __5.400 TL__'dir. 
+Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800 TL__'dir.
 
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  
+Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Kurs hakkında sorularınız için doğrudan [__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
