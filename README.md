@@ -13,4 +13,4 @@ Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katıl�
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://zoom.us/meeting/register/tJEsf-iuqTIjE9ckSeBOvc3uVjUVyW15s9AG)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)
