@@ -1,15 +1,13 @@
-## Online C Programlama Dili Kursu
+## Online C++ Programlama Dili Kursu
 
-+ Bu kurs **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.
-+ Kurs __5 Nisan 2022__ tarihinde başlayacaktır.
-+ __Kurs gerçek zamanlıdır.__ 
-Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. 
-Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Dersler __Salı ve Cuma__ günleri  __19:30 - 22.30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
++ Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.
++ Kurs __5 Nisan 2022 Salı__ günü başlayacaktır.
++ Dersler __Salı ve Cuma__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.
 + Kursun toplam süresi __180__ saattir.
-+ Kurs eğitmeni __Necati Ergin__'dir.
-+ Kurs ücreti __5.800 TL__'dir. 
-Öğrenciler için %10 indirim uygulanmaktadır. 
++ Programın toplam ücreti **5.800 TL**'dir. Öğrenci olanlar için kurs ücreti **5.200 TL**'dir. <br>
+Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.
++ Kurs eğitmeni **Necati Ergin**'dir.
+
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
