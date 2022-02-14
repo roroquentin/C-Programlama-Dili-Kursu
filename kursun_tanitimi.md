@@ -20,13 +20,14 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama
 Eğitimin toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri  __14.00 – 18.00__ saatleri arasında __4'er saat__ olarak yapılacaktır.
+Dersler __Salı ve Cuma__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
 ## Eğitmen
-Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma __C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları__ konularında eğitim vermiştir. 
+Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. 
+__C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 100’ün üstünde şirket ve kuruma __C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları__ konularında eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
@@ -71,7 +72,10 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/) gibi kurumlar yer almaktadır.
 
 ## Format
-+ __C Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __C Kursu__ online olarak gerçek zamanlı verilmektedir. 
++ __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. 
++ Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. 
++ Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
