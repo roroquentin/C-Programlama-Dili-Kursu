@@ -33,6 +33,7 @@ __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren __Necati Ergin__, 1
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
+[Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/)
 [Ankasis](http://www.ankasis.com/),
 [Arçelik](https://www.arcelik.com.tr/), 
 [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), 
@@ -45,9 +46,11 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [BSH](https://www.bsh-group.com/tr/), 
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
+[E-data Teknoloji](https://e-data.com.tr/)
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
+[Ford-Otosan](https://www.fordotosan.com.tr/tr),
 [Havelsan](https://www.havelsan.com.tr/), 
 [Huawei](https://www.huawei.com/tr/), 
 [Hugin](http://hugin.com.tr/tr/home), 
@@ -56,22 +59,26 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [İspark](https://ispark.istanbul/), 
 [Katron](http://katron.com.tr/), 
 [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
+[Luna Eelektronik](https://lunatr.com/)
 [Mamur Teknoloji](http://www.mamurtech.com/), 
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
+[Nettsi Teknoloji](https://www.nettsi.com/)
 [Pavotek](https://pavotek.com.tr/), 
 [Profilo](https://www.profilo.com/), 
 [Roketsan](http://www.roketsan.com.tr/), 
 [Siemens](https://www.siemens-home.bsh-group.com/tr/), 
+[Statech Tecnology Solutions](http://www.statechsolutions.com/),
 [STM](https://www.stm.com.tr/tr), 
 [Sunny Elektronik](https://www.sunny.com.tr/), 
 [TEB](https://www.teb.com.tr/), 
 [THY Teknik](https://turkishtechnic.com/Home/TR), 
-[Tübitak](https://www.tubitak.gov.tr/), 
-[Turkcell](https://www.turkcell.com.tr/), 
-[Türkiye İs Bankası](https://www.isbank.com.tr), 
-[Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) 
+[Tosyalı-Toyo](https://www.tosyaliholding.com.tr/),
 [Triodor Software](http://triodorarge.com/), 
-[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/) gibi kurumlar yer almaktadır.
+[Tusaş](https://www.tusas.com/)
+[Turkcell](https://www.turkcell.com.tr/), 
+[Tübitak](https://www.tubitak.gov.tr/), 
+[Türkiye İs Bankası](https://www.isbank.com.tr), 
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
 
 ## Format
 + __C Kursu__ online olarak gerçek zamanlı verilmektedir. 
