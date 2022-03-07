@@ -43,6 +43,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Baykar Savunma](https://www.baykarsavunma.com/),
 [Beko](https://www.beko.com.tr/), 
 [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), 
+[Bites](https://www.bites.com.tr/)
 [BSH](https://www.bsh-group.com/tr/), 
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
@@ -51,6 +52,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
 [Ford-Otosan](https://www.fordotosan.com.tr/tr),
+[Fotoniks](https://www.fotoniks.com.tr/)
 [Havelsan](https://www.havelsan.com.tr/), 
 [Huawei](https://www.huawei.com/tr/), 
 [Hugin](http://hugin.com.tr/tr/home), 
@@ -61,11 +63,14 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), 
 [Luna Eelektronik](https://lunatr.com/)
 [Mamur Teknoloji](http://www.mamurtech.com/), 
+[Milsoft](https://www.milsoft.com.tr/)
 [Netaş](http://www.netas.com.tr/ana-sayfa/), 
 [Nettsi Teknoloji](https://www.nettsi.com/)
+[Otokar](https://www.otokar.com.tr/)
 [Pavotek](https://pavotek.com.tr/), 
 [Profilo](https://www.profilo.com/), 
 [Roketsan](http://www.roketsan.com.tr/), 
+[Savronik](http://www.savronik.com.tr/tr/anasayfa/)
 [Siemens](https://www.siemens-home.bsh-group.com/tr/), 
 [Statech Tecnology Solutions](http://www.statechsolutions.com/),
 [STM](https://www.stm.com.tr/tr), 
@@ -78,7 +83,8 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Turkcell](https://www.turkcell.com.tr/), 
 [Tübitak](https://www.tubitak.gov.tr/), 
 [Türkiye İs Bankası](https://www.isbank.com.tr), 
-[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
+[Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/)
+gibi kurumlar yer almaktadır.
 
 ## Format
 + __C Kursu__ online olarak gerçek zamanlı verilmektedir. 
