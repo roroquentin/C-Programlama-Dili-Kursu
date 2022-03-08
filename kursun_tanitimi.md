@@ -76,6 +76,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [STM](https://www.stm.com.tr/tr), 
 [Sunny Elektronik](https://www.sunny.com.tr/), 
 [TEB](https://www.teb.com.tr/), 
+[Techne Logos](https://www.tekhnelogos.com/),
 [THY Teknik](https://turkishtechnic.com/Home/TR), 
 [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/),
 [Triodor Software](http://triodorarge.com/), 
