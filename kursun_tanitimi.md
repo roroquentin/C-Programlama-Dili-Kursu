@@ -22,7 +22,7 @@ Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](
 Eğitimin toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Salı ve Cuma__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
+Dersler __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
