@@ -5,7 +5,7 @@
 * Kursta __C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.
 
 * Eğitimde temel olarak __C99__ ve __C11__ standartları esas alınmaktadır. 
-__C99__ standartlarıyle dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
+__C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.
 
 * __C__ dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.
 
