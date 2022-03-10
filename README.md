@@ -1,7 +1,7 @@
 ## Nisan - 2022 Online C Programlama Dili Kursu
 
 ✅ Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
-&#128197; Kurs __5 Nisan 2022 Salı__ günü başlayacaktır.<br><br<
+&#128197; Kurs __5 Nisan 2022 Salı__ günü başlayacaktır.<br><br>
 ✅ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __180__ saattir.<br><br>
 ✅ Programın toplam ücreti **5.400** &#8378;'dir. Öğrenci olanlar için kurs ücreti **4.800** &#8378;'dir. 
