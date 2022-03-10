@@ -6,7 +6,7 @@
 ⌛ Kursun toplam süresi __180__ saattir.<br><br>
 ✅ Programın toplam ücreti **5.400** &#8378;'dir. Öğrenci olanlar için kurs ücreti **4.800** &#8378;'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
-✅ Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
+&#128104; Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
 
 
