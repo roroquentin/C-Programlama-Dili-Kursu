@@ -8,6 +8,7 @@
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br>
 ✅ Kurs eğitmeni **Necati Ergin**'dir.
 
+&#128279;
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-C-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
