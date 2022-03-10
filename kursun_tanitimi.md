@@ -7,6 +7,7 @@ __C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kü
 ✅ __C__ dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.<br>
 ✅ Kurs yalnızca __C__ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.<br>
 ✅ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için "veri yapılarına ve algoritmalara" __(Data Structures & Algorithms)__ ilişkin temel kavramlar anlatılmaktadır.<br>
+❗ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile 2 kez __Vimeo__ üzerinden izleyebilirler.<br> Bu yeterli olmaz ise yeniden izleme talebinde bulunabilirler.
 
 ## Ön Koşul
 &#9888;Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. <br>
@@ -92,7 +93,7 @@ gibi kurumlar yer almaktadır.
 ✅ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.<br>
 ✅ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.<br>
 ✅ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.<br>
-✅ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile 2 kez __Vimeo__ üzerinden izleyebilirler.<br> Bu yeterli olmaz ise yeniden izleme talebinde bulunabilirler.
+
 
 
 ## Eğitim Materyalleri
