@@ -92,7 +92,7 @@ gibi kurumlar yer almaktadır.
 ✅ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.<br>
 ✅ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.<br>
 ✅ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.<br>
-✅ Öğrenciler kaçırdıkları dersleri kendilerine özel verilecek parola ile iki kez __Vimeo__ üzerinden izleyebilirler.
+✅ Öğrenciler kaçırdıkları dersleri ya da tekrar etmek istedikleri dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile 2 kez __Vimeo__ üzerinden izleyebilirler.<br> Bu yeterli olmaz ise yeniden izleme talebinde bulunabilirler.
 
 
 ## Eğitim Materyalleri
