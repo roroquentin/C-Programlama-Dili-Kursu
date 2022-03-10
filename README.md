@@ -5,7 +5,7 @@
 ✅ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br>
 ✅ Kursun toplam süresi __180__ saattir.<br>
 ✅ Programın toplam ücreti **5.400 TL**'dir. Öğrenci olanlar için kurs ücreti **4.800 TL**'dir. <br>
-Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.
+Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br>
 ✅ Kurs eğitmeni **Necati Ergin**'dir.
 
 
