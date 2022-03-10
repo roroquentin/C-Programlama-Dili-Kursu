@@ -90,7 +90,7 @@ gibi kurumlar yer almaktadır.
 ## Format
 + __C Kursu__ online olarak gerçek zamanlı verilmektedir. 
 + __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. 
-+ Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. 
++ Derslerin izlenmesi için &#128279;[Zoom](https://zoom.us/) yazılımı kullanılmaktadır. 
 + Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
