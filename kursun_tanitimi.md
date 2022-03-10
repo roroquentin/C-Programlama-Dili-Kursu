@@ -2,8 +2,7 @@
 
 ✅ Bu kurs, katılımcıların öncelikle __C__ programlama dilini iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde dili kullanma becerisi geliştirmelerini hedeflemektedir.<br>
 ✅ Kursta __C__ programlama dilinin tüm sentaksı ve semantik yapısı ve profesyonel düzeyde kullanımı ayrıntılı olarak öğretilmektedir.<br>
-✅ Eğitimde temel olarak __C99__ ve __C11__ standartları esas alınmaktadır. <br>
-__C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.<br>
+✅ Eğitimde temel olarak __C99__ ve __C11__ standartları esas alınmaktadır. __C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kütüphane öğeleri eğitim kapsamındadır.<br>
 ✅ __C__ dilinin standart kütüphanesi tüm yönleriyle ele alınmaktadır.<br>
 ✅ Kurs yalnızca __C__ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz, sürdürülebilir ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.<br>
 ✅ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için "veri yapılarına ve algoritmalara" __(Data Structures & Algorithms)__ ilişkin temel kavramlar anlatılmaktadır.<br>
