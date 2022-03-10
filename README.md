@@ -4,7 +4,7 @@
 ✅ Kurs __5 Nisan 2022 Salı__ günü başlayacaktır.<br>
 ✅ Dersler __Salı ve Perşembe__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br>
 ✅ Kursun toplam süresi __180__ saattir.<br>
-✅ Programın toplam ücreti **5.400 TL**'dir. Öğrenci olanlar için kurs ücreti **4.800 TL**'dir. <br>
+✅ Programın toplam ücreti **5.400 TL**'dir. Öğrenci olanlar için kurs ücreti **4.800 TL**'dir. 
 Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br>
 ✅ Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.
 
