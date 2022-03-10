@@ -9,7 +9,7 @@ __C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kü
 ✅ Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için "veri yapılarına ve algoritmalara" __(Data Structures & Algorithms)__ ilişkin temel kavramlar anlatılmaktadır.<br>
 
 ## Ön Koşul
-&#9888;Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. 
+&#9888;Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. <br>
 &#9888;Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  &#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
@@ -84,20 +84,15 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 gibi kurumlar yer almaktadır.
 
 ## Format
-+ __C Kursu__ online olarak gerçek zamanlı verilmektedir. 
-+ __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. 
-+ Derslerin izlenmesi için &#128279;[Zoom](https://zoom.us/) yazılımı kullanılmaktadır. 
-+ Ders sırasında öğrenciler eğitmene soru sorabilirler.
-
-+ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
-
-+ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.
-
-+ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
-
-+ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
-
-+ Öğrenciler kaçırdıkları dersleri kendilerine özel verilecek parola ile iki kez __Vimeo__ üzerinden izleyebilirler.
+✅ __C Kursu__ online olarak gerçek zamanlı verilmektedir. <br>
+✅ __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. <br>
+✅ Derslerin izlenmesi için &#128279;[Zoom](https://zoom.us/) yazılımı kullanılmaktadır. <br>
+✅ Ders sırasında öğrenciler eğitmene soru sorabilirler.<br>
+✅ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.<br>
+✅ Eğitim programı ile ilgili tüm materyaller program süresince öğrencilerle paylaşılmaktadır.<br>
+✅ Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.<br>
+✅ Eğitim dili Türkçe’dir. Programlama ve __C__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.<br>
+✅ Öğrenciler kaçırdıkları dersleri kendilerine özel verilecek parola ile iki kez __Vimeo__ üzerinden izleyebilirler.
 
 
 ## Eğitim Materyalleri
