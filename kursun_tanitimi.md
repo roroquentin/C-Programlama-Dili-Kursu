@@ -16,7 +16,7 @@ __C99__ standartları ile dile eklenen tüm sentaks özellikleri ve standart kü
 
 ## Ön Koşul
 Bu eğitim programına katılabilmek için öğrencilerin daha önce programlama ile tanışmış olmaları gerekmektedir. 
-Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  [Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
+Kursa uygun olup olmadığınız konusunda şüpheleriniz varsa  &#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Kurs Süresi
 Eğitimin toplam süresi __180__ saattir. 
@@ -25,7 +25,7 @@ Eğitimin toplam süresi __180__ saattir.
 Dersler __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
+&#128279;[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__’nde eğitmen olarak görev yapmaktadır. 
@@ -112,7 +112,7 @@ Kurs ücreti __5.400 TL__'dir.
 Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800 TL__'dir.
 
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  
+&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
-## Kurs hakkında sorularınız için doğrudan [__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+## Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
