@@ -99,7 +99,7 @@ gibi kurumlar yer almaktadır.
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __5.400 TL__'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800 TL__'dir.
+Kurs ücreti __5.400__ **₺**'dir. Öğrenciler için (öğrencilik durumlarını belgelemek kaydıyla) kurs ücreti __4.800__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
 
 ## Kursa Kayıt Olma
 &#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIqcemhrDssGNDbC9cNIgIWCZzFKaYfALX5)  
